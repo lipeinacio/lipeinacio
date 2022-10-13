@@ -1,4 +1,5 @@
-## Bem-vindo(a) 😁
+<h1 align="center">Olá👋🏻, me chamo Felipe.</h1>
+<h2 align="center">Sou um Desenvolvedor Front-End Júnior.</h2>
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
@@ -18,14 +19,17 @@ app.listen(3000, () =>{
 })
 
 ```
+
+<p>
+  - 🔭 No momento estou finalizando meu projeto de **mini portfólio utilizando meu aprendizado de HTML, CSS e JS.**
+</p>
 ## **Linguagens e Ferramentas:**  
 
  <div>
    <a href="https://github.com/lipeinacio">
    <img height="135em" src="https://github-readme-stats.vercel.app/api?username=lipeinacio&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> 
    <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipeinacio&layout=compact&langs_count=6&theme=midnight-purple"/>
-<br>
-   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/54cd311402e9233fc654a77bee91b1af3291c03f6f1b5346265a61b9e805dedd/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d657569676f72267468656d653d6d69646e696768742d707572706c65"></a>
+   
 
 </div>
 <div style="display: inline_block"><br>
