@@ -23,7 +23,7 @@ app.listen(3000, () =>{
  <div>
    <a href="https://github.com/lipeinacio">
    <img height="135em" src="https://github-readme-stats.vercel.app/api?username=lipeinacio&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> 
-   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipeinacio&layout=compact&langs_count=6&theme=midnight-purple"/>
+   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipeinacio&layout=compact&langs_count=6&theme=midnight-purple"/>
 
 
 </div>
