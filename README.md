@@ -1,9 +1,11 @@
 ## Bem-vindo(a) 😁
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
  <div>
-   <a href="https://github.com/Fe-Inacio">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fe-Inacio&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fe-Inacio&layout=compact&langs_count=6&theme=midnight-purple"/>
+   <a href="https://github.com/lipeinacio">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lipeinacio&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipeinacio&layout=compact&langs_count=6&theme=midnight-purple"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -23,6 +25,6 @@
   <a href = "felipeinacio.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-inácio-453664253/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Fe-Inacio/Fe-Inacio/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/lipeinacio/lipeinacio/blob/output/github-contribution-grid-snake.svg)
 
 </div>
