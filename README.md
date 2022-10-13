@@ -24,7 +24,8 @@ app.listen(3000, () =>{
    <a href="https://github.com/lipeinacio">
    <img height="135em" src="https://github-readme-stats.vercel.app/api?username=lipeinacio&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> 
    <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipeinacio&layout=compact&langs_count=6&theme=midnight-purple"/>
-
+<br>
+   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/54cd311402e9233fc654a77bee91b1af3291c03f6f1b5346265a61b9e805dedd/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d657569676f72267468656d653d6d69646e696768742d707572706c65"></a>
 
 </div>
 <div style="display: inline_block"><br>
@@ -35,7 +36,7 @@ app.listen(3000, () =>{
  
  <br>
  
-  ### Vamos nos Conectar:
+ ## **Vamos nos Conectar:**
  
 <div> 
   <a href="https://www.linkedin.com/in/felipe-inácio-453664253/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
