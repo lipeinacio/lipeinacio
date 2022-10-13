@@ -26,8 +26,7 @@ app.listen(3000, () =>{
   
   - 🔭 Produzindo um **mini portfólio utilizando HTML, CSS e JS.**
   - 🌱 Estou estudando **HTML, CSS, JavaScript e React.**
-  
-⚡ Fun fact: If I am not coding then I am playing basktball or PUBG
+  - ⚡ Fun Fact: Se eu não estiver codando, ou eu estou fazendo exercícios ou eu dando uma caminhada. 
  
 
 </p>
