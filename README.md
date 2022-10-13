@@ -1,5 +1,6 @@
 <h1 align="center">Olá👋🏻, me chamo Felipe.</h1>
 <h2 align="center">Um Front-End developer apaixonado por tecnologia, buscando transformar sonhos em realidade através da programação.</h2>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lipeinacio&label=Profile%20views&color=330967&style=flat" alt="lipeinacio" /> </p>
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
@@ -23,7 +24,11 @@ app.listen(3000, () =>{
 
 <p>
   
-  - 🔭 No momento estou finalizando meu projeto de **mini portfólio utilizando meu aprendizado de HTML, CSS e JS.**
+  - 🔭 Produzindo um **mini portfólio utilizando HTML, CSS e JS.**
+  - 🌱 Estou estudando **HTML, CSS, JavaScript e React.**
+  
+⚡ Fun fact: If I am not coding then I am playing basktball or PUBG
+ 
 
 </p>
 
