@@ -22,7 +22,9 @@ app.listen(3000, () =>{
 ```
 
 <p>
+  
   - 🔭 No momento estou finalizando meu projeto de **mini portfólio utilizando meu aprendizado de HTML, CSS e JS.**
+
 </p>
 
 ## **Linguagens e Ferramentas:**  
