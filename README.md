@@ -1,5 +1,5 @@
 <h1 align="center">Olá👋🏻, me chamo Felipe.</h1>
-<h2 align="center">Um Front-End developer apaixonado por tecnologia, buscando transformar sonhos em realidade através da programação.</h2>
+<h2 align="center">Um futuro desenvolvedor Full-Stack apaixonado por tecnologia, buscando transformar sonhos em realidade através da programação.</h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lipeinacio&label=Profile%20views&color=330967&style=flat" alt="lipeinacio" /> </p>
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
@@ -26,8 +26,8 @@ app.listen(3000, () =>{
   
   <h3>- 🌠 Desejo me tornar um Desenvolvedor Full-Stack!</h3>
   
-  - 🔭 **Atualmente:** Produzindo um **Mini portfólio utilizando HTML, CSS e JavaScript.**
-  - 🌱 Estou elaborando e estudando projetos **HTML, CSS e JavaScript.**
+  - 🔭 **Atualmente** estudando HTML, CSS e JavaScript.**
+  - 🌱 Cursando Analise e Desenvolvimento de Sistemas 1/6.
   - ⚡ Se eu não estou codando, estou jogando basquete/vôlei ou Elden Ring.
  
 
@@ -46,6 +46,7 @@ app.listen(3000, () =>{
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 </div>
  
  <br>
