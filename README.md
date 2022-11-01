@@ -26,7 +26,7 @@ app.listen(3000, () =>{
   
   <h3>- 🌠 Desejo me tornar um Desenvolvedor Full-Stack!</h3>
   
-  - 🔭 **Atualmente** estudando HTML, CSS e JavaScript.**
+  - 🔭 **Atualmente** estudando HTML, CSS e JavaScript.
   - 🌱 Cursando Analise e Desenvolvimento de Sistemas 1/6.
   - ⚡ Se eu não estou codando, estou jogando basquete/vôlei ou Elden Ring.
  
