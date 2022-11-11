@@ -1,5 +1,5 @@
 <h1 align="center">Olá👋🏻, me chamo Felipe.</h1>
-<h2 align="center">Um futuro desenvolvedor Full-Stack apaixonado por tecnologia, buscando transformar sonhos em realidade através da programação.</h2>
+<h2 align="center">Um futuro desenvolvedor Front-End apaixonado por tecnologia, buscando transformar sonhos em realidade através da programação.</h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lipeinacio&label=Profile%20views&color=330967&style=flat" alt="lipeinacio" /> </p>
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
@@ -24,7 +24,7 @@ app.listen(3000, () =>{
 
 <p>
   
-  <h3>- 🌠 Desejo me tornar um Desenvolvedor Full-Stack!</h3>
+  <h3>- 🌠 Desejo me tornar um Desenvolvedor Front-End!</h3>
   
   - 🔭 **Atualmente** estudando HTML, CSS e JavaScript.
   - 🌱 Cursando Analise e Desenvolvimento de Sistemas 1/6.
