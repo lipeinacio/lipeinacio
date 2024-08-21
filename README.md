@@ -1,6 +1,6 @@
 <h1 align="center">Olá👋🏻, me chamo Felipe.</h1>
 <h2 align="center">Um desenvolvedor Front-End apaixonado por tecnologia, buscando transformar sonhos em realidade através da programação.</h2>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=lipeinacio&label=Profile%20views&color=330967&style=flat" alt="lipeinacio" /> </p>
+
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
