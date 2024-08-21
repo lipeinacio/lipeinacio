@@ -27,7 +27,7 @@ app.listen(3000, () =>{
   <h3>- 🌠 Desejo me aperfeiçoar cada vez mais como um Desenvolvedor Front-End!</h3>
   
   - 🔭 **Atualmente** estudando HTML, CSS e JavaScript.
-  - 🌱 Cursando Analise e Desenvolvimento de Sistemas 2/6.
+  - 🌱 Cursando Ciências da Computação 2/8.
   - ⚡ Se eu não estou codando, estou jogando basquete/vôlei ou Elden Ring.
  
 
@@ -58,7 +58,7 @@ app.listen(3000, () =>{
 <div> 
   <a href="https://www.linkedin.com/in/felipe-inácio-453664253/" target="_blank">
   <a href="https://www.instagram.com/lipe.dp_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "felipeinacio.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "felipeinaciodepaulacontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-inácio-453664253/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/lipeinacio/lipeinacio/blob/output/github-contribution-grid-snake.svg)
