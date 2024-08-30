@@ -26,9 +26,9 @@ app.listen(3000, () =>{
   
   <h3>- 🌠 Desejo me aperfeiçoar cada vez mais como um Desenvolvedor Front-End!</h3>
   
-  - 🔭 **Atualmente** estudando HTML, CSS e JavaScript.
+  - 🔭 **Atualmente** estudando C# e .NET
   - 🌱 Cursando Ciências da Computação 2/8.
-  - ⚡ Se eu não estou codando, estou jogando basquete/vôlei ou Elden Ring.
+  - ⚡ Se eu não estou codando, estou jogando basquete/vôlei ou Valorant.
  
 
 </p>
