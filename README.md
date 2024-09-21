@@ -1,5 +1,5 @@
-<h1 align="center">Olá👋🏻, me chamo Felipe.</h1>
-<h2 align="center">Um desenvolvedor Front-End apaixonado por tecnologia, buscando transformar sonhos em realidade através da programação.</h2>
+<h1 align="center">Olá, me chamo Felipe.</h1>
+<h2 align="center">Um desenvolvedor apaixonado por tecnologia, buscando transformar sonhos em realidade através da programação.</h2>
 
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
