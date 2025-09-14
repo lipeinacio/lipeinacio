@@ -1,47 +1,20 @@
 <h1 align="center">Olá, me chamo Felipe.</h1>
-<h2 align="center">Um desenvolvedor apaixonado por tecnologia, buscando transformar sonhos em realidade através da programação.</h2>
+<h2 align="center">Um estudante apaixonado por tecnologia, buscando transformar sonhos em realidade através da da própria!</h2>
 
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-```javascript
-const express = require('express')
-const app = express()
-
-const fullStackDeveloper = {name:"Felipe", stack:"Full-Stack-Developer"}
-
-app.get('/', (req, res) =>{
-  return res.send(fullStackDeveloper)
-}),
-
-app.listen(3000, () =>{
-  console.log("Initing code...")
-})
-
-```
 
 <p>
   
-  <h3>- 🌠 Desejo me aperfeiçoar cada vez mais como um Desenvolvedor Front-End!</h3>
-  
-  - 🔭 **Atualmente** estudando C# e .NET
-  - 🌱 Cursando Ciências da Computação 2/8.
+  - 🔭 **Atualmente** Segurança da Informação
+  - 🌱 Cursando Ciências da Computação 4/8.
   - ⚡ Se eu não estou codando, estou jogando basquete/vôlei ou Valorant.
  
 
 </p>
-
-## **Linguagens e Ferramentas:**  
-
-<div align="center">
-  <a href="https://github.com/lipeinacio">
-    <section>
-      <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=lipeinacio&theme=midnight-purple&date_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD"/>
-    </section>
-  </a>
-</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
