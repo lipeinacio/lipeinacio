@@ -1,5 +1,5 @@
 <h1 align="center">Olá, me chamo Felipe.</h1>
-<h2 align="center">Um estudante apaixonado por tecnologia, buscando transformar sonhos em realidade através da da própria!</h2>
+<h2 align="center">Um estudante apaixonado por tecnologia, buscando transformar sonhos em realidade!</h2>
 
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
@@ -9,8 +9,8 @@
 
 <p>
   
-  - 🔭 **Atualmente** Segurança da Informação
-  - 🌱 Cursando Ciências da Computação 4/8.
+  - 🔭 **Atualmente** C#
+  - 🌱 Cursando Ciências da Computação 5/8.
   - ⚡ Se eu não estou codando, estou jogando basquete/vôlei ou Valorant.
  
 
@@ -31,8 +31,8 @@
  
 <div> 
   <a href="https://www.linkedin.com/in/felipe-inácio-453664253/" target="_blank">
-  <a href="https://www.instagram.com/lipe.dp_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "felipeinaciodepaulacontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/notfound.lipe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "felipeinacio.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-inácio-453664253/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
