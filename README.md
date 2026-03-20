@@ -9,7 +9,7 @@
 
 <p>
   
-  - 🔭 **Atualmente** C#
+  - 🔭 **Atualmente** estudando C#
   - 🌱 Cursando Ciências da Computação 5/8.
   - ⚡ Se eu não estou codando, estou jogando basquete/vôlei ou Valorant.
  
