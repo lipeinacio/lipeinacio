@@ -9,9 +9,9 @@
 
 <p>
   
-  - 🔭 **Atualmente** estudando C#
+  - 🔭 **Atualmente** estudando Observabilidade e SRE
   - 🌱 Cursando Ciências da Computação 5/8.
-  - ⚡ Se eu não estou codando, estou jogando basquete/vôlei ou Valorant.
+  - ⚡ Se não estou trabalhando em projetos, provavelmente estou jogando basquete, vôlei ou Valorant.
  
 
 </p>
@@ -22,7 +22,15 @@
   <img alt="JavaScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Java" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img alt="Python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img alt="RStudio" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
+  <img alt="Docker" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img alt="Linux" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img alt="Zabbix" height="30" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg">
+  <img alt="Grafana" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg">
+  <img alt="Prometheus" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg">
+  <img alt="MySQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img alt="PostgreSQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 </p>
  
  <br>
