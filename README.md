@@ -10,7 +10,6 @@
 <p>
   
   - 🎓 Cursando o 6º semestre de Ciência da Computação.
-  - 💻 Atualmente estudando desenvolvimento web com PHP, HTML, CSS e JavaScript.
   - 🗄️ Tenho experiência acadêmica e prática com bancos de dados relacionais.
   - 🐧 Também possuo conhecimentos em Linux, Docker e observabilidade.
   - 🏀 No tempo livre, gosto de jogar basquete, vôlei e jogos online.
